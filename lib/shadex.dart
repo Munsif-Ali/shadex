@@ -38,6 +38,7 @@ class Shadex extends StatelessWidget {
               imageFilter: ImageFilter.blur(
                 sigmaX: shadowBlurRadius,
                 sigmaY: shadowBlurRadius,
+                tileMode: TileMode.decal,
               ),
               child: ColorFiltered(
                 colorFilter: ColorFilter.mode(shadowColor, BlendMode.srcIn),
