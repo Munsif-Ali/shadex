@@ -21,7 +21,7 @@ Add the following to your `pubspec.yaml`:
 dependencies:
   shadex:
     git:
-      url: https://github.com/your-username/shadex.git
+      url: https://github.com/Munsif-Ali/shadex
 ```
 
 ## 🔧 Usage
