@@ -61,3 +61,12 @@ Shadex(
 ```
 
 ## 📱 Screenshots
+
+![Screenshot 1](https://github.com/Munsif-Ali/shadex/raw/master/SS/Screenshot%202025-05-04%20111530.png)
+![Screenshot 2](https://github.com/Munsif-Ali/shadex/raw/master/SS/Screenshot%202025-05-04%20111513.png)
+![Screenshot 3](https://github.com/Munsif-Ali/shadex/raw/master/SS/Screenshot%202025-05-04%20111455.png)
+![Screenshot 4](https://github.com/Munsif-Ali/shadex/raw/master/SS/Screenshot%202025-05-04%20111354.png)
+
+## 📜 License
+
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Munsif-Ali/shadex/blob/master/LICENSE) file for details.
