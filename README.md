@@ -24,6 +24,15 @@ dependencies:
       url: https://github.com/Munsif-Ali/shadex
 ```
 
+or if you want to use the latest version from pub.dev, add:
+
+```yaml
+dependencies:
+  shadex: ^1.0.2
+```
+
+Then run `flutter pub get` to install the package.
+
 ## 🔧 Usage
 
 ```dart

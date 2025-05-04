@@ -1,6 +1,6 @@
 name: shadex
 description: "A customizable Flutter widget that adds soft, blurred shadow effects to any child widget."
-version: 1.0.1
+version: 1.0.2
 homepage: https://github.com/Munsif-Ali/shadex.git
 
 environment:
